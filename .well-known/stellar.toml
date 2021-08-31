@@ -6,7 +6,7 @@ NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
 ORG_NAME="ARTX"
 ORG_DBA="ARTX Token"
 ORG_URL="https://artx.one/"
-ORG_LOGO = "https://artx.one/logo.png"
+ORG_LOGO = "https://artx.one/artx.png"
 
 [[CURRENCIES]]
 code = "ARTX"
@@ -14,6 +14,6 @@ name = "ARTX"
 issuer = "GDUXTG33DLNMAPYCV4VLQKTTPHATFAZPEID5EFP3NYUILP3P7U62JZOM"
 is_asset_anchored = false
 display_decimals = 0
-desc="ARTX is."
-image="https://artx.one/logo.png"
+desc="The ARTX Token (ARTX) is the native token of the ArtX NFT."
+image="https://artx.one/artx.png"
 conditions="There will only ever be 10 billion ARTX tokens in existence."
