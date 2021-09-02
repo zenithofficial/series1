@@ -14,6 +14,6 @@ name = "ARTX TOKEN"
 issuer = "GDUXTG33DLNMAPYCV4VLQKTTPHATFAZPEID5EFP3NYUILP3P7U62JZOM"
 is_asset_anchored = false
 display_decimals = 2
-desc="ARTX Token (ARTX) is ArtX NFT's native token. Learn more about ARTX NFT and ARTX Token at https://artx.one"
+desc="ARTX Token is a utility token for ArtX NFT. Learn more about ArtX NFT and ARTX Token at https://artx.one"
 image="https://artx.one/artx.png"
 conditions="There will only ever be 10 billion ARTX tokens in existence."
