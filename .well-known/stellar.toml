@@ -12,7 +12,7 @@ ORG_LOGO="https://artx.one/artx.png"
 code="ARTX"
 name="ARTX"
 issuer="GDUXTG33DLNMAPYCV4VLQKTTPHATFAZPEID5EFP3NYUILP3P7U62JZOM"
-desc="ARTX Token is a utility token for ArtX NFT. Learn more about ArtX NFT at https://artx.one"
+desc="ARTX is a utility token for ArtX NFT. Learn more about ArtX NFT at https://artx.one"
 display_decimals=2
 image="https://artx.one/artx.png"
 conditions="There will only ever be 10 billion ARTX tokens in existence."
@@ -21,14 +21,12 @@ is_asset_anchored=false
 fixed_number=10000000000
 
 [[CURRENCIES]]
-code="ARTPAY"
-name="ARTPAY"
-issuer="GCE7CSG4D6UN3TLRTUI6DGLBX4OV5LJW42CIQSMGHKNVFKW6PS2CSNAN"
-desc="ARTPAY is a stablecoin for ArtX NFT. Learn more about ArtX NFT at https://artx.one"
-display_decimals=2
+code="ARTX1"
+name="ARTX1"
+issuer="GDB4C44N6HWBOPP5RAO6PTDRZ4FQZV25AVHAFZX7LZNFWHVLTF75SOMY"
+desc="ArtX NFT NO 1."
+display_decimals=7
 image="https://artx.one/artx.png"
-conditions="1 ARTPAY = 1000000 ARTX."
+conditions="There will only ever be 1 ARTX1 NFT in existence.."
 status="live"
-is_asset_anchored=true
-anchor_asset_type="crypto"
-anchor_asset="ARTX"
+is_asset_anchored=false
