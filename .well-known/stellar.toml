@@ -5,8 +5,8 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 [DOCUMENTATION]
 ORG_NAME="ARTX"
 ORG_DBA="ARTX"
-ORG_URL="https://artx.one"
-ORG_LOGO="https://artx.one/artx.png"
+ORG_URL="https://ipfs.io/ipfs/QmQWVr5Sz6Kbbj6Xgz1E36qWaDQgx8vV2mGVL44cnGdbD6"
+ORG_LOGO="https://ipfs.io/ipfs/QmQWVr5Sz6Kbbj6Xgz1E36qWaDQgx8vV2mGVL44cnGdbD6"
 
 [[CURRENCIES]]
 code="ARTX"
@@ -14,7 +14,7 @@ name="ARTX"
 issuer="GDUXTG33DLNMAPYCV4VLQKTTPHATFAZPEID5EFP3NYUILP3P7U62JZOM"
 desc="ARTX is a utility token for ArtX NFT. Learn more about ArtX NFT at https://artx.one"
 display_decimals=2
-image="https://artx.one/artx.png"
+image="https://ipfs.io/ipfs/QmQWVr5Sz6Kbbj6Xgz1E36qWaDQgx8vV2mGVL44cnGdbD6"
 conditions="There will only ever be 10 billion ARTX tokens in existence."
 status="live"
 is_asset_anchored=false
