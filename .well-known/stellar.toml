@@ -19,14 +19,3 @@ conditions="There will only ever be 10 billion ARTX tokens in existence."
 status="live"
 is_asset_anchored=false
 fixed_number=10000000000
-
-[[CURRENCIES]]
-code="ARTX1"
-name="ARTX1"
-issuer="GDB4C44N6HWBOPP5RAO6PTDRZ4FQZV25AVHAFZX7LZNFWHVLTF75SOMY"
-desc="ArtX NFT NO 1."
-display_decimals=7
-image="https://"
-conditions="There will only ever be 1 ARTX1 NFT in existence."
-status="live"
-is_asset_anchored=false
