@@ -2,7 +2,7 @@
 ORG_URL="https://series1.artx.one"
 
 [[CURRENCIES]]
-code="ARTONE1"
+code="artone1"
 issuer="GDT4OT5Z7FLK5UE7EBHSCN5JSW37T6MYYN2NLNVGIC4XPJKUJLBRGP6P"
 display_decimals=7
 name="FIRE"
