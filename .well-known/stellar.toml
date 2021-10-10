@@ -8,3 +8,11 @@ display_decimals=7
 name="FIRE"
 desc="ARTX NFT"
 image="https://ipfs.io/ipfs/QmNtLJDmXFe9d2g2J3VoJizBWw4jKRk6aKtGgHuQsWyZpY"
+
+[[CURRENCIES]]
+code="artone2"
+issuer="GCIGFCCQAPMSKDOGTVQIIPFJRBJDWXEJKCYQB5ZAPKTHQKFLY4KGIKVV"
+display_decimals=7
+name="Blue Blossom"
+desc="ARTX NFT"
+image="https://ipfs.io/ipfs/QmUqyu9VYL8Ydg1otsPLQJghwQ17FifuACTkCwaLuU2xTc"
